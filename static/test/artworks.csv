@@ -1,0 +1,101 @@
+artwork_id,title,artist_name,image_filepath,test_image_filepath
+4916,Sada Yacco,Pablo Picasso,/static/images/Pablo_Picasso_399.jpg,/static/test/6e0a1524-264e-467c-9b72-2cf2e1024f5d.jpg
+1005,Díptico de Marilyn,Andy Warhol,/static/images/Andy_Warhol_127.jpg,/static/test/9c9fa6e6-cb3f-4446-bed5-c84c3cef7d71.jpg
+1812,A Cotton Office in New Orleans,Edgar Degas,/static/images/Edgar_Degas_427.jpg,/static/test/0ea9cf5a-0ff9-4a22-9403-5ee6275292a9.jpg
+284,Jesús entre los doctores,Albrecht Dürer,/static/images/Albrecht_Durer_284.jpg,/static/test/aaf885f7-3127-40c2-b169-786c5b4ebb30.jpg
+7795,Peasant WomanPicking Up a Sheaf of Grain,Vincent van Gogh,/static/images/Vincent_van_Gogh_390.jpg,/static/test/d07da858-1946-45f6-ac00-8c4e8cb7bebf.jpg
+3162,Leda y el cisne,Henri Matisse,/static/images/Henri_Matisse_53.jpg,/static/test/f51a12f2-448b-4d42-841a-2a1b9f1cc532.jpg
+3271,La alegría de vivir,Henri Matisse,/static/images/Henri_Matisse_162.jpg,/static/test/f5091f34-dec7-4805-860c-4fb28e3da9a3.jpg
+5246,Wood Tankard and Metal Pitcher,Paul Gauguin,/static/images/Paul_Gauguin_244.jpg,/static/test/e897999f-5b64-412a-8464-6d41b2d78117.jpg
+2983,The House of Guardaboschi,Gustav Klimt,/static/images/Gustav_Klimt_49.jpg,/static/test/a7050aee-a191-43c1-a187-d93fa4797581.jpg
+4845,Head of Faun,Pablo Picasso,/static/images/Pablo_Picasso_328.jpg,/static/test/5bd48116-2b67-442e-b6ee-487d2bfff934.jpg
+2626,Asunción de la Virgen y San Íñigo,Francisco Goya,/static/images/Francisco_Goya_265.jpg,/static/test/0ea9cf5a-0ff9-4a22-9403-5ee6275292a9.jpg
+5676,Pierre-Auguste Renoir,Pierre-Auguste Renoir,/static/images/Pierre-Auguste_Renoir_34.jpg,/static/test/7d977df9-82f3-48b1-9aa8-d5000b279280.jpg
+7772,Self-Portrait with Pipe and Glass,Vincent van Gogh,/static/images/Vincent_van_Gogh_367.jpg,/static/test/15b27e24-03b6-4ade-a0ca-59b889416efe.jpg
+4978,La montaña de Sainte-Victoirevista desde Bibémus,Paul Cezanne,/static/images/Paul_Cezanne_22.jpg,/static/test/a815a4ce-e597-4e76-aabb-46a2fcc8f861.jpg
+4509,,Mikhail Vrubel,/static/images/Mikhail_Vrubel_163.jpg,/static/test/c778a280-2059-441f-94c5-629b2a701883.jpg
+1439,After the Bath,Edgar Degas,/static/images/Edgar_Degas_54.jpg,/static/test/4a5e6285-82e9-445c-bf53-d4b35aed7b11.jpg
+646,Little Girl In Blue,Amedeo Modigliani,/static/images/Amedeo_Modigliani_59.jpg,/static/test/3018b21f-bd4e-4f10-8b60-4fcae8ecd7d3.jpg
+5007,Human Miseryfrom the Volpini Suite: Dessins lithographiques,Paul Gauguin,/static/images/Paul_Gauguin_5.jpg,/static/test/c8650fed-c9f0-4a88-a978-95727ca47321.jpg
+6514,Sagrada Familia con ángeles,Rembrandt,/static/images/Rembrandt_210.jpg,/static/test/0dc9914e-c510-437d-9216-7c12e454152c.jpg
+5308,The Haystacks,Paul Gauguin,/static/images/Paul_Gauguin_306.jpg,/static/test/9233839a-fb25-4f90-838f-eb4e5dbc458f.jpg
+8101,Field with Wheat Stacks,Vincent van Gogh,/static/images/Vincent_van_Gogh_697.jpg,/static/test/833a6ee7-91e2-4d0a-8696-e990e6f2e574.jpg
+7140,La bella,Titian,/static/images/Titian_78.jpg,/static/test/5c17e5c8-89f9-4153-8c30-48ceff1c5b03.jpg
+5898,Head of a Young Girl,Pierre-Auguste Renoir,/static/images/Pierre-Auguste_Renoir_256.jpg,/static/test/ebf50f30-c5bf-4eb8-9f7c-4ce420484c23.jpg
+5519,Portrait of Christopher Plantin,Peter Paul Rubens,/static/images/Peter_Paul_Rubens_18.jpg,/static/test/1d625d01-c66b-43a5-85de-4ed117d17545.jpg
+2557,Josefa Bayeu,Francisco Goya,/static/images/Francisco_Goya_196.jpg,/static/test/abaf44f4-20ca-473e-96d2-039d059cd0cb.jpg
+4808,The Charnel House,Pablo Picasso,/static/images/Pablo_Picasso_291.jpg,/static/test/9c54caa1-3302-40fd-8e94-062f7af84f6c.jpg
+1917,Mujer bañándose.,Edgar Degas,/static/images/Edgar_Degas_532.jpg,/static/test/ac9afe72-ffc7-401f-909f-ce81354f6f66.jpg
+5603,The Drunken Hercules,Peter Paul Rubens,/static/images/Peter_Paul_Rubens_102.jpg,/static/test/ea2c5453-30c5-461f-b053-0165cf0a377e.jpg
+1283,Baile de Tehuantepec,Diego Rivera,/static/images/Diego_Rivera_5.jpg,/static/test/4accd6a0-3bb4-44e1-9d43-4d0015ecd4dc.jpg
+5451,Child and aunt,Paul Klee,/static/images/Paul_Klee_138.jpg,/static/test/28c4cb5a-ddb1-4c02-abb4-f9291eacec09.jpg
+2455,Vuelo de brujas,Francisco Goya,/static/images/Francisco_Goya_94.jpg,/static/test/701160db-8ca2-47ec-ac14-c03649baa0b4.jpg
+5772,Head of a Young Girl,Pierre-Auguste Renoir,/static/images/Pierre-Auguste_Renoir_130.jpg,/static/test/d4065677-3b7f-4561-8241-e03109f3a00a.jpg
+4420,Horseman,Mikhail Vrubel,/static/images/Mikhail_Vrubel_74.jpg,/static/test/0cf5749e-d586-4b1a-bb3a-637696ec50dd.jpg
+4743,Retrato de Jaume Sabartés con gorguera y sombrero,Pablo Picasso,/static/images/Pablo_Picasso_226.jpg,/static/test/2a7bc5e8-4f02-479d-9007-477c3088bfca.jpg
+5058,Nave nave moe,Paul Gauguin,/static/images/Paul_Gauguin_56.jpg,/static/test/20a1f6bd-30b4-4819-8517-d1b3de96234b.jpg
+3249,OdalisqueBlue Harmony,Henri Matisse,/static/images/Henri_Matisse_140.jpg,/static/test/fb353a2e-0b32-4b36-bdf2-73b4652add08.jpg
+6480,Descendimiento de la cruz,Rembrandt,/static/images/Rembrandt_176.jpg,/static/test/011aaac7-c9d9-4677-8601-75aefcb82dbc.jpg
+3151,La alegría de vivir,Henri Matisse,/static/images/Henri_Matisse_42.jpg,/static/test/100df9db-0888-467b-acf0-49bed9e92e5c.jpg
+566,Alfred Sisley - reproducción de Arte Footbridge At Argenteuil 1872(40 x 24.6 cm),Alfred Sisley,/static/images/Alfred_Sisley_238.jpg,/static/test/58aa25c5-4f12-4a18-b3ad-752ec49e6ad7.jpg
+2726,,Frida Kahlo,/static/images/Frida_Kahlo_74.jpg,/static/test/402125cd-0313-43d4-9428-e1d8aac053b5.jpg
+3709,Painting (Blue Star),Joan Miro,/static/images/Joan_Miro_21.jpg,/static/test/92e23f3a-25c0-4433-8e52-c1504b6b82e5.jpg
+1207,Breakup of IceLavacourtGrey Weather,Claude Monet,/static/images/Claude_Monet_2.jpg,/static/test/3fd2605d-2617-4b3b-b755-1d5ac1bb2981.jpg
+6710,The Maimed,Rene Magritte,/static/images/Rene_Magritte_144.jpg,/static/test/1c0b5029-3aa0-4d67-8f4b-0ca37feac990.jpg
+1246,Springtime,Claude Monet,/static/images/Claude_Monet_41.jpg,/static/test/f79056eb-a685-4d55-994a-0fa0dd04dea2.jpg
+2656,Portrait of Doña Rosita Morillo,Frida Kahlo,/static/images/Frida_Kahlo_4.jpg,/static/test/515ca723-8192-440b-bf19-5ec0759d8fd8.jpg
+1047,,Andy Warhol,/static/images/Andy_Warhol_169.jpg,/static/test/969ab023-f40e-4a8d-aaf9-d0de449a6cef.jpg
+7508,Self-Portrait with Pipe,Vincent van Gogh,/static/images/Vincent_van_Gogh_103.jpg,/static/test/0fcbcb14-865d-47c3-828a-13a13a9feef6.jpg
+3656,Joris van der Paele,Jan van Eyck,/static/images/Jan_van_Eyck_49.jpg,/static/test/cae6cee1-a673-47e5-924d-8ec180d44c51.jpg
+2750,El venado herido,Frida Kahlo,/static/images/Frida_Kahlo_98.jpg,/static/test/95df9210-037c-4240-a973-2e80a79b09b2.jpg
+2913,Return of Christ to Jerusalem,Giotto di Bondone,/static/images/Giotto_di_Bondone_98.jpg,/static/test/8bf6a9c5-b510-4d79-b13a-e820ea88d02e.jpg
+2287,La crucifixión,El Greco,/static/images/El_Greco_44.jpg,/static/test/6aad5192-4490-4909-a394-233766c966a8.jpg
+6140,Bruegel: The Complete Graphic Works,Pieter Bruegel,/static/images/Pieter_Bruegel_79.jpg,/static/test/be01fb4d-6d26-4075-9a5b-f82ad08e20e6.jpg
+7557,Sower (after Millet),Vincent van Gogh,/static/images/Vincent_van_Gogh_152.jpg,/static/test/5b5fa2e8-1823-4a6c-9315-87cbecb2358d.jpg
+544,Landscape at Louveciennes,Alfred Sisley,/static/images/Alfred_Sisley_216.jpg,/static/test/695fde1b-8d07-4879-9107-1c81857132db.jpg
+5812,Christine Lerolle,Pierre-Auguste Renoir,/static/images/Pierre-Auguste_Renoir_170.jpg,/static/test/c687cefd-36aa-4690-8baa-375176b26a83.jpg
+7759,View of a River with Rowing Boats,Vincent van Gogh,/static/images/Vincent_van_Gogh_354.jpg,/static/test/29066801-c545-4c48-96ca-c117ebea4ad0.jpg
+2100,Otoño,Edouard Manet,/static/images/Edouard_Manet_14.jpg,/static/test/d5d6dcc7-011f-4019-932f-eaf8e7132ae7.jpg
+8069,Arles: View from the Wheat Fields,Vincent van Gogh,/static/images/Vincent_van_Gogh_665.jpg,/static/test/9e050e67-52cd-414a-ba46-edaf31ffeb69.jpg
+1816,Racehorses at Longchamp,Edgar Degas,/static/images/Edgar_Degas_431.jpg,/static/test/1aec6dc3-e3e5-4d2b-8e79-d4498c212b43.jpg
+8331,Undine Giving the Ring to MassanielloFisherman of Naples,William Turner,/static/images/William_Turner_56.jpg,/static/test/e00a40ba-a6ad-4b28-94f8-73f207fe77d7.jpg
+3230,Moorish Screen,Henri Matisse,/static/images/Henri_Matisse_121.jpg,/static/test/fd60accf-77a5-4738-9fa2-e886dd2e75e5.jpg
+3994,Drapery for a Seated Figure,Leonardo da Vinci,/static/images/Leonardo_da_Vinci_79.jpg,/static/test/bdde2d2f-c0b5-40f6-81e6-11113c3103b2.jpg
+6293,Retrato de Andrea Navagero y Agostino Beazzano,Raphael,/static/images/Raphael_98.jpg,/static/test/59b0b529-449c-4898-b915-69bcf82edc5d.jpg
+449,Cows by the Seine at Saint Mammes,Alfred Sisley,/static/images/Alfred_Sisley_121.jpg,/static/test/1d3afdb4-4008-473b-bd5b-a12f455c8a4c.jpg
+5428,,Paul Klee,/static/images/Paul_Klee_115.jpg,/static/test/e7a2f924-d2e8-4a06-8200-3a2eb3aba81d.jpg
+2773,Study for A Sunday on La Grande Jatte,Georges Seurat,/static/images/Georges_Seurat_1.jpg,/static/test/e834dc70-fa69-4d98-ad97-622335840769.jpg
+2224,,Edvard Munch,/static/images/Edvard_Munch_48.jpg,/static/test/cce9f9da-4a8b-4fc8-b01b-24622f0a1609.jpg
+5433,Coming to bloom,Paul Klee,/static/images/Paul_Klee_120.jpg,/static/test/4f7c7faf-fa1a-4142-96a9-cb7789f3dc42.jpg
+4654,,Pablo Picasso,/static/images/Pablo_Picasso_137.jpg,/static/test/115b09b1-a02e-41f0-ac8f-a3bc625fd6c0.jpg
+6096,,Pieter Bruegel,/static/images/Pieter_Bruegel_35.jpg,/static/test/a4da9119-763e-4b57-8c91-197807b6d86d.jpg
+7720,Field of Spring Wheat at Sunrise,Vincent van Gogh,/static/images/Vincent_van_Gogh_315.jpg,/static/test/535a31df-77f4-491d-9d26-1906b9f5e807.jpg
+1424,Visit to a Museum,Edgar Degas,/static/images/Edgar_Degas_39.jpg,/static/test/8c8638f2-d936-499e-a3f6-fdd58e749ab7.jpg
+5651,Reclining Nude,Pierre-Auguste Renoir,/static/images/Pierre-Auguste_Renoir_9.jpg,/static/test/ff76d946-c3ff-4846-a5d7-dbd0a0517076.jpg
+4918,Madame Soler,Pablo Picasso,/static/images/Pablo_Picasso_401.jpg,/static/test/37aa5904-6004-4797-b75b-1173da2ca682.jpg
+5115,Stabble near Dieppe,Paul Gauguin,/static/images/Paul_Gauguin_113.jpg,/static/test/0846526e-5782-41f5-8535-eedc9d553775.jpg
+1362,El bufón Calabacillas,Diego Velazquez,/static/images/Diego_Velazquez_105.jpg,/static/test/1ad70bdf-5b2f-4049-aced-7aca8ae9e874.jpg
+8249,Vincent Van Gogh Arte impreso The mill of Alphonse Daudetnul,Vincent van Gogh,/static/images/Vincent_van_Gogh_845.jpg,/static/test/45b308bc-890a-444e-9a84-8d863834e49a.jpg
+2464,La boda,Francisco Goya,/static/images/Francisco_Goya_103.jpg,/static/test/21b676aa-4d82-4733-880d-692fdb786950.jpg
+1656,Landscape with Rocks,Edgar Degas,/static/images/Edgar_Degas_271.jpg,/static/test/4da0100f-3a7a-436f-83d7-f04872dd8701.jpg
+8327,Great Mew Stone,William Turner,/static/images/William_Turner_50.jpg,/static/test/8ac90aa1-ef5f-4bd9-a0eb-300de5562630.jpg
+4953,Woman reading (Olga),Pablo Picasso,/static/images/Pablo_Picasso_436.jpg,/static/test/a17517d1-4577-45f8-b38c-0f61808dd6a0.jpg
+1986,The Rehearsal of the Ballet on Stage,Edgar Degas,/static/images/Edgar_Degas_601.jpg,/static/test/94dba93d-1c14-4da0-9356-a6262d9d604e.jpg
+4942,La Vie,Pablo Picasso,/static/images/Pablo_Picasso_425.jpg,/static/test/218243f0-d52e-43d9-821c-6d4621cac568.jpg
+6639,Les Mémoires D'un Saint,Rene Magritte,/static/images/Rene_Magritte_73.jpg,/static/test/bb6dced8-a594-4a18-82e7-233d0367e848.jpg
+208,De Heilige Drie-eenheid,Albrecht Dürer,/static/images/Albrecht_Durer_208.jpg,/static/test/497b46ee-a5ec-4a1c-9324-e36355d5701e.jpg
+516,The Church at Moret in the Rain,Alfred Sisley,/static/images/Alfred_Sisley_188.jpg,/static/test/91859606-b7a6-45d3-a3b7-e6bcf78b206e.jpg
+2512,Francisco de Goya,Francisco Goya,/static/images/Francisco_Goya_151.jpg,/static/test/141009f9-199d-4e28-b0a4-2f577580807b.jpg
+965,Latas de sopa Campbell,Andy Warhol,/static/images/Andy_Warhol_87.jpg,/static/test/6e8fc106-ba21-4ada-9c3e-d33dd0499df6.jpg
+6712,Call of peaks,Rene Magritte,/static/images/Rene_Magritte_146.jpg,/static/test/9042e0c5-bfa5-48cb-8150-3db4696a35c0.jpg
+342,Path in the Country,Alfred Sisley,/static/images/Alfred_Sisley_14.jpg,/static/test/caab8ffb-202a-4c6d-8210-c2837c628b3c.jpg
+6423,Portrait of a Young Man with a Golden Chain,Rembrandt,/static/images/Rembrandt_119.jpg,/static/test/8fad409c-cc74-4714-bc65-8df1b29f50e5.jpg
+6723,The blank signature,Rene Magritte,/static/images/Rene_Magritte_157.jpg,/static/test/54849d1c-c806-4b93-81c3-7df6282ecdff.jpg
+7201,St. John the Evangelist on Patmos,Titian,/static/images/Titian_139.jpg,/static/test/49969f12-57c1-4f06-b2bd-1ec459998ecd.jpg
+1587,Edgar Degas,Edgar Degas,/static/images/Edgar_Degas_202.jpg,/static/test/b57b8c27-940f-467e-a065-8dae2da241b2.jpg
+5565,Dronken Silenus,Peter Paul Rubens,/static/images/Peter_Paul_Rubens_64.jpg,/static/test/c57a6024-e3d5-4e56-83e1-f8b94349926b.jpg
+5401,Cosmic Composition,Paul Klee,/static/images/Paul_Klee_88.jpg,/static/test/fd6b9ef0-9268-4a49-bc05-8bbd337bc974.jpg
+896,,Andy Warhol,/static/images/Andy_Warhol_17.jpg,/static/test/a409ec51-c6f9-459b-b3e1-4a1562ad6880.jpg
+2459,Scene of Rape and Murder,Francisco Goya,/static/images/Francisco_Goya_98.jpg,/static/test/1d175a68-af9e-422c-8ee8-8dc339f97850.jpg
+1632,Jerome Ottoz,Edgar Degas,/static/images/Edgar_Degas_247.jpg,/static/test/ec6d04d8-fd3b-4563-a6c5-4ebf6d3a7b63.jpg
+2122,Otoño,Edouard Manet,/static/images/Edouard_Manet_36.jpg,/static/test/88aee263-e2ea-4b76-b44b-8d6859dad801.jpg

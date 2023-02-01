@@ -1,0 +1,20 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "NODE_OPTIONS=--max-old-space-size=8192 node test.js",
+    "scraping": "NODE_OPTIONS=--max-old-space-size=8192 node scraping.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "array.prototype.group": "^1.1.2",
+    "axios": "^1.2.3",
+    "axios-retry": "^3.4.0",
+    "csv-parse": "^5.3.3",
+    "form-data": "^4.0.0",
+    "p-limit": "^4.0.0"
+  }
+}
