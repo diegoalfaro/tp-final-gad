@@ -1,0 +1,21 @@
+#!/bin/bash
+
+downStack()
+{
+    docker compose down --volumes
+}
+
+upStack()
+{
+    docker compose up --build --force-recreate
+}
+
+if [[ "$*" == *"restart"* || "$*" == *"down"* ]]
+then
+    downStack
+fi
+
+if [[ "$*" == *"restart"* || "$*" == *"up"* ]]
+then
+    upStack
+fi

@@ -1,0 +1,68 @@
+version: "3.9"
+
+services:
+  db:
+    container_name: proyecto_final_db
+    build: ./db
+    environment:
+      POSTGRES_USER: ${DATABASE_USER}
+      POSTGRES_PASSWORD: ${DATABASE_PASSWORD}
+      POSTGRES_DB: ${DATABASE_DB}
+      PGDATA: /db_data
+    volumes:
+      - db_data:/db_data
+      - ./static:/static
+    ports:
+      - "5455:5432"
+    networks:
+      - bridge_network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+  api:
+    container_name: proyecto_final_api
+    build: ./api
+    environment:
+      - DATABASE_URL=postgresql://${DATABASE_USER}:${DATABASE_PASSWORD}@db/${DATABASE_DB}
+    volumes:
+      - ./api:/app
+      - ./static:/static
+    ports:
+      - "8085:80"
+    networks:
+      - bridge_network
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+  tests:
+    container_name: proyecto_final_tests
+    build: ./tests
+    #command: ["npm", "run", "test"]
+    #tty: true
+    environment:
+      API_BASEURL: ${API_BASEURL}
+      IMAGES_DIRECTORY_PATH: /static/images
+      TEST_IMAGES_DIRECTORY_PATH: /static/test
+      TEST_RESULTS_DIRECTORY_PATH: /results/test
+      SCRAPING_RESULTS_DIRECTORY_PATH: /results/scraping
+    volumes:
+      - ./tests:/app
+      - ./static:/static
+      - ./tests/results:/results
+    networks:
+      - bridge_network
+    #restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+
+networks:
+  bridge_network:
+    driver: bridge
+
+volumes:
+  db_data:
